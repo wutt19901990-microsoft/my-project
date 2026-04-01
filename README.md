@@ -1,3 +1,4 @@
+#setup git remote
 git config --global user.email "your_email@example.com"
 git config --global --list
 #create commit
