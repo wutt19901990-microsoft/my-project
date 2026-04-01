@@ -1,0 +1,9 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/data/data/alsultan.shell/rootfs/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/data/data/alsultan.shell/rootfs/usr/bin/gh auth git-credential
+[user]
+	name = wutt19901990-microsoft
+	email = wutt19901990@outlook.com
