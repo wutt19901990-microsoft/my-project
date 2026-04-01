@@ -6,4 +6,6 @@
 	helper = !/data/data/alsultan.shell/rootfs/usr/bin/gh auth git-credential
 [user]
 	name = wutt19901990-microsoft
-	email = wutthingameye-al@outlook.com
+	email = wutt19901990@outlook.com
+[init]
+	defaultBranch = main
