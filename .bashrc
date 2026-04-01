@@ -1,0 +1,2 @@
+alias gpush="./autopush.sh"
+
